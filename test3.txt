@@ -1,1 +1,3 @@
-This is the Third version of file test
+This is the Third version of file test.
+
+This is the end.
